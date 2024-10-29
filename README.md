@@ -16,7 +16,7 @@ I am an avid coder 💻 and love exploring new technologies 🌍 and concepts. I
 
 Feel free to reach out to me if you'd like to collaborate or just chat about tech!
 
-- [LinkedIn](ttps://www.linkedin.com/in/manh-nguyen-931826291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3eCO12iUTluVDpyGZL8vbQ%3D%3D) 🔗
+- [LinkedIn](https://www.linkedin.com/in/manh-nguyen-931826291/) 🔗
 - Email: [ducmanh010105@gmail.com](mailto:your-email@example.com) 📧
 Thank you for visiting my profile! 🚀
 
