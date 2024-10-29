@@ -6,7 +6,7 @@ I am an avid coder 💻 and love exploring new technologies 🌍 and concepts. I
 
 ## Skills and Technologies
 
-- **Programming Languages:** Python 🐍, JavaScript 🌐
+- **Programming Languages:** Python 🐍, JavaScript 🌐, Java,SQL(MySQL)
 - **Data Visualization:** Power BI 📊
 - **Database Management:** Azure Data Studio 💾
 - **Containerization:** Docker 🐳
