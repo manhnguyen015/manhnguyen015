@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Manh Nguyen]
 
-<!--
-**manhnguyen015/manhnguyen015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student in the **Information Processing Science** program, diving deep into the world of web development and data. My passion lies in **Data Engineering**,**Data Analysis** and creating insightful visualizations using **Power BI**.
 
-Here are some ideas to get you started:
+I am an avid coder 💻 and love exploring new technologies 🌍 and concepts. I believe in lifelong learning 📚 and continuously seek opportunities to expand my knowledge and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+- **Programming Languages:** Python 🐍, JavaScript 🌐
+- **Data Visualization:** Power BI 📊
+- **Database Management:** Azure Data Studio 💾
+- **Containerization:** Docker 🐳
+- **Cloud Computing:** Learning Azure platform ☁️
+
+## Connect with Me
+
+Feel free to reach out to me if you'd like to collaborate or just chat about tech!
+
+- [LinkedIn](ttps://www.linkedin.com/in/manh-nguyen-931826291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3eCO12iUTluVDpyGZL8vbQ%3D%3D) 🔗
+- Email: [ducmanh010105@gmail.com](mailto:your-email@example.com) 📧
+Thank you for visiting my profile! 🚀
+
